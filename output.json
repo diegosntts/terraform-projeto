@@ -1,0 +1,7 @@
+{
+  "ip_do_droplet": {
+    "sensitive": false,
+    "type": "string",
+    "value": "digitalocean_droplet.web.ipv4_address"
+  }
+}
